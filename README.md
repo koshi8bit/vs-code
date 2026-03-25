@@ -1,6 +1,11 @@
 # vs-code
 
-# basic
+## conf
+Ctrl + ,
+editor.fontSize = 18
+editor.mouseWheelZoom = true
+
+## basic
 
 ```
 code --goto path/to/file:line
