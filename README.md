@@ -1,9 +1,11 @@
 # vs-code
 
 ## conf
+```
 Ctrl + ,
 editor.fontSize = 18
 editor.mouseWheelZoom = true
+```
 
 ## basic
 
