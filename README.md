@@ -16,9 +16,8 @@ git show master:devices/power-meter/powermeterwater.cpp | code -
 ```
 
 ## From FAR manager
+`F9 -> O -> E`
 ```
 code --disable-workspace-trust --new-window "!\!.!"
-code --new-window "!\!.!"
-code "!\!.!"
 ```
 
